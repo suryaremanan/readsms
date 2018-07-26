@@ -1,2 +1,1 @@
-# sample
-this is just for the sake of practice
+the arduino code sends sms using gsm shield A10
